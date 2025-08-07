@@ -13,11 +13,16 @@
       * [Get a single user](#get-a-single-user)
       * [Update a user](#update-a-user)
       * [Delete a user](#delete-a-user)
+      * [Create an order](#create-an-order)
+      * [List all orders](#list-all-orders)
+      * [Get a single order](#get-a-single-order)
+      * [Update an order](#update-an-order)
+      * [Delete an order](#delete-an-order)
 <!-- TOC -->
 
 # FastAPI PostgreSQL CRUD Example
 
-A minimal CRUD application using FastAPI, SQLAlchemy and PostgreSQL, with absolute imports and a clear project structure.
+A minimal CRUD application using FastAPI, SQLAlchemy and PostgreSQL, featuring CRUD operations for managing users and orders.
 
 ## Prerequisites
 
